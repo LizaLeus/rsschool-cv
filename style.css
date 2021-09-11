@@ -25,3 +25,39 @@ main {
 footer {
     text-align: center;
 }
+.info_aboutme {
+    text-align: left;
+    margin-left:20px;
+}
+.skills {
+    text-align: left;
+}
+.CODE {
+    text-align: left;
+}
+.info_work {
+    text-align: left;
+    margin-left:20px;
+}
+.info-engl {
+    text-align: left;
+    margin-left:20px;
+}
+.info_contacts {
+    text-align: left;
+    margin-left:20px;
+}
+.info_education {
+    text-align: left;
+    margin-left:20px;
+}
+.bottom {
+    display         : flex;
+  padding-left    : 4%;
+  padding-right   : 7%;
+  padding-bottom  : 30px;
+  justify-content : space-between;
+  align-items     : center;
+  background-color: rgb(83, 83, 82);
+  color           : #fff;
+}
