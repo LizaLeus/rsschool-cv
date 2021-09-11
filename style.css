@@ -7,3 +7,21 @@ body {
     margin-right: auto;
     width: 60em;
 }
+header {
+    background-color:#52514f;
+    height: 516px;
+    padding-top: 5px;
+}
+.name {
+    position: absolute;
+    top: 210px;
+    padding-left: 400px;
+    font-size: 30px;
+    color: #ffff;
+}
+main {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
