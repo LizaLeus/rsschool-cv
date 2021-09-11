@@ -12,7 +12,7 @@ My goal now is to gain knowledge in programming. My strong point is curiosity, a
    * JavaScript
    * Git/GitHub
 ## Code Examples
-   ```HTML
+ ```
  <!DOCTYPE html>
  <html>
   <head>
@@ -26,7 +26,7 @@ My goal now is to gain knowledge in programming. My strong point is curiosity, a
    <p>Второй абзац.</p>
   </body>
  </html>
-   ```
+ ```
 ## Education
 I graduated from the College of Business and Law with a degree in accountancy and Belarusian State Economic University with a degree in economics.
 ## Work experience
