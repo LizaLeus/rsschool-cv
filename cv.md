@@ -1,0 +1,36 @@
+# Lizaveta Leus
+## Contacts:
+   * E-mail: __lizaleus1996@gmail.com__
+   * Discord:__LIZAVETA#0275__
+   * Phone: _+375 25 986 76 06_
+## About myself
+I am 24 years old, married, no children. 
+My goal now is to gain knowledge in programming. My strong point is curiosity, as well as energy, but at the same time I am persevering and meticulous. I have been working as an accountant for over 5 years. I started out as an assistant accountant, and now I am a deputy chief accountant.
+## The skills I am learning:
+   * HTML
+   * CSS
+   * JavaScript
+   * Git/GitHub
+## Code Examples
+   ```HTML
+ <!DOCTYPE html>
+ <html>
+  <head>
+   <meta charset="utf-8">
+   <title>Пример веб-страницы</title>
+  </head>
+  <body>
+   <h1>Заголовок</h1>
+   <!-- Комментарий -->
+   <p>Первый абзац.</p>
+   <p>Второй абзац.</p>
+  </body>
+ </html>
+   ```
+## Education
+I graduated from the College of Business and Law with a degree in accountancy and Belarusian State Economic University with a degree in economics.
+## Work experience
+I didn’t work as a programmer.
+## English level 
+* Russian - native speaker
+* A1 (certificate) but I improve my level every day.
