@@ -2,7 +2,7 @@
 ## Contacts:
    * E-mail: __lizaleus1996@gmail.com__
    * Discord:__LIZAVETA#0275__
-   * Phone: _+375 25 986 76 06_
+   * Phone: __+375 25 986 76 06__
 ### About myself
 I am 24 years old, married, no children. 
 My goal now is to gain knowledge in programming. My strong point is curiosity, as well as energy, but at the same time I am persevering and meticulous. I have been working as an accountant for over 5 years. I started out as an assistant accountant, and now I am a deputy chief accountant.
@@ -12,7 +12,7 @@ My goal now is to gain knowledge in programming. My strong point is curiosity, a
    * JavaScript
    * Git/GitHub
 ### Code Examples
- ```javascript
+ '''javascript
  class App {
 
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ My goal now is to gain knowledge in programming. My strong point is curiosity, a
     }
 
  }
- ```
+ '''
 ### Education
 I graduated from the College of Business and Law with a degree in accountancy and Belarusian State Economic University with a degree in economics.
 ### Work experience
